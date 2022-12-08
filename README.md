@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=barbaraport&theme=bear" alt="stats" height="140">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbaraport&layout=compact&theme=bear" alt="langs" height="140">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbaraport&hide=jupyter%20notebook&layout=compact&theme=bear&count_private=true" alt="langs" height="140">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=barbaraport&theme=bear&date_format=M%20j%5B%2C%20Y%5D" height="140">
 </p>
 <p align="center"> 
