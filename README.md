@@ -1,8 +1,11 @@
-<h1> :sparkles: Olá! :sparkles: </h1>
-<p align="justify">Seja bem-vindo ao meu perfil do GitHub! Fico muito feliz por você estar aqui!</p>
+<h1> :sparkles: Hello! :sparkles: </h1>
+<p align="justify">Welcome to my GitHub profile! I'm really glad you're here!</p>
 
-<h1> :books: Quem sou eu :books: </h1>
-<p align="justify">Tive meu primeiro contato com programação em 2017, em que aprendi lógica de programação com pseudocódigos, época que eu estava cursando o meu Curso Técnico de Informática Integrado ao Ensino Médio. Acabei gostando muito de descobrir cada vez mais o que acontece por trás de softwares e computadores.</p>
+<h1> :books: About me :books: </h1>
+<p align="justify">I had my first contact with development in 2017, when I learned programming logic with pseudocodes. At this time I was attending my Computer Technician Course Integrated to High School. I ended up really enjoying to discover more and more what happens behind softwares and computers.</p>
+
+<p align="justify">I am always willing to produce deliverables with high value and that have excellent quality, a thought that has accompanied me from an early age and that provided me the recognition of Honor to Merit during my academic education.</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=barbaraport&theme=bear" alt="stats" height="140">
