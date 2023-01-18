@@ -17,6 +17,6 @@
     <a href="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=barbaraport&label=Profile%20Views&color=5&icon=7&pretty=true" />
+    <img src="https://komarev.com/ghpvc/?username=barbaraport&color=ff69b4&style=plastic" />
   </a>
 </p>
