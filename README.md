@@ -1,10 +1,11 @@
 <h1 align="center"> :sparkles: Hello! :sparkles: </h1>
-<p align="justify">Welcome to my GitHub profile! I'm really glad you're here!</p>
+<p align="justify">Welcome to my GitHub profile! I am glad that you are here! Here, I pay attention to the smallest details to convince you that I can solve your problem.
+</p>
 
 <h1 align="center"> :books: About me :books: </h1>
-<p align="justify">I had my first contact with development in 2017, when I learned programming logic with pseudocodes. At this time I was attending my Computer Technician Course Integrated to High School. I ended up really enjoying to discover more and more what happens behind softwares and computers.</p>
+<p align="justify">I had my first exposure to development in 2017 when I delved into programming logic through pseudocodes. It was during this period that I was enrolled in my Computer Technician Course, which was integrated with my high school education. As I progressed, my fascination grew as I delved deeper into the intricate workings of software and computers, constantly yearning to discover more about their inner workings.</p>
 
-<p align="justify">I am always willing to produce deliverables with high value and that have excellent quality, a thought that has accompanied me from an early age and that provided me the recognition of Honor to Merit during my academic education.</p>
+<p align="justify">I am an experienced software developer with a passion for crafting high-quality solutions and skilled in strong typed languages. Recognized with two Honorable Mentions for my outstanding contributions in educational institutions.</p>
 
 
 <p align="center">
