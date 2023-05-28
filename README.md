@@ -3,9 +3,10 @@
 </p>
 
 <h1 align="center"> :books: About me :books: </h1>
-<p align="justify">I had my first exposure to development in 2017 when I delved into programming logic through pseudocodes. It was during this period that I was enrolled in my Computer Technician Course, which was integrated with my high school education. As I progressed, my fascination grew as I delved deeper into the intricate workings of software and computers, constantly yearning to discover more about their inner workings.</p>
-
 <p align="justify">I am an experienced software developer with a passion for crafting high-quality solutions and skilled in strong typed languages. Recognized with two Honorable Mentions for my outstanding contributions in educational institutions.</p>
+
+
+<p align="justify">I had my first exposure to development in 2017 when I delved into programming logic through pseudocodes. It was during this period that I was enrolled in my Computer Technician Course, which was integrated with my high school education. As I progressed, my fascination grew as I delved deeper into the intricate workings of software and computers, constantly yearning to discover more about their inner workings.</p>
 
 
 <p align="center">
