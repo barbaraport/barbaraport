@@ -12,14 +12,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=barbaraport&theme=bear" alt="stats" height="140">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbaraport&hide=jupyter%20notebook&layout=compact&theme=bear&count_private=true&include_all_commits=true" alt="langs" height="140">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=barbaraport&theme=bear&date_format=M%20j%5B%2C%20Y%5D" height="140">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=barbaraport&theme=bear&date_format=M%20j%5B%2C%20Y%5D&&exclude_days=Sun%2CSat" height="140">
 </p>
 <p align="center"> 
   <a href="https://www.linkedin.com/in/barbaraport/">
     <a href="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=barbaraport&color=ff69b4&style=plastic" />
   </a>
 </p>
 
