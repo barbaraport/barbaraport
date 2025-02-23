@@ -1,5 +1,5 @@
 <h1> :sparkles: Welcome! :sparkles: </h1>
-<p align="justify">I'm Bárbara, a Full Stack Software Developer. I have 3 years of work experience. I started learning programming in 2017 (it's been 7 years from now! :sweat_smile:).</p>
+<p align="justify">I'm Bárbara, a Full Stack Software Developer. I have 3 years of work experience. I started learning programming in 2017 :sweat_smile:.</p>
 <p align="justify"> 🎯 Currently, I'm focusing on studying <b>DevOps</b>, <b>Cloud Computing</b>, and <b>CI/CD</b>. I'm currently taking courses about these topics. You may want to check them on my <a href="https://www.linkedin.com/in/barbaraport/">LinkedIn profile</a>!</p>
 
 <h2> About my journey 🚀 </h2>
@@ -13,7 +13,7 @@
 
 <p align="justify">I started high school and my Informatics Course Integrated To High School in 2017. I learned about programming logic and the basics of <b>Java</b>, <b>PHP</b>, <b>C#</b>, <b>MySQL</b>, <b>HTML</b>, and <b>CSS</b>. I'll never forget the patience and dedication of my professors in teaching programming to my entire class. At graduation, in 2019, I was awarded an Honor to Merit certificate for my academic performance. I felt delighted! 🏆</p>
 
-<p align="justify">I truly liked studying programming, and I started searching for where I could study software development. How to create complete web applications, and how it all worked. I applied to the closest college in a neighboring city.</p>
+<p align="justify">I truly liked studying programming, and I started searching for where I could study software development, for example how to create complete web applications, and how it all worked. I applied to the closest college in a neighboring city.</p>
 
 <p align="justify">Then, I started my undergraduate degree in Analysis and Systems Development, a technologist degree. I started it in 2020 and graduated in 2022. I learned a lot about software development. I'm grateful for the patience and teachings of my professors. At graduation, I was also awarded an Honorable Mention for my academic performance. I was thrilled! 🏆</p>
 
