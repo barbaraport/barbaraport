@@ -19,6 +19,10 @@
 
 <p align="justify">Now, I am planning my career, to pursue my goals. I am determined to enroll in an <b>Information Security Master's Degree</b>.</p>
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barbaraport&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <h2> :iphone: Reach me out :calling: </h1>
   <p align="justify">You can conveniently contact me by sending a message through my <a href="https://www.linkedin.com/in/barbaraport/">LinkedIn profile</a>.
 </p>
