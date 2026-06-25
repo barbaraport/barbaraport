@@ -1,5 +1,5 @@
 # Nice to meet you. I'm Bárbara. 👋
-### Software Engineer | Backend & DevSecOps
+### Software Engineer | Backend & DevSecOps | [My Website](https://www.barbaraport.com.br)
 
 I am a software engineer dedicated to building high-availability systems and scalable microservices. My core focus is writing clean, testable, and secure code, always keeping system resilience and software quality at the forefront.
 
@@ -52,6 +52,9 @@ I have been studying and practicing software engineering since 2017. Below are s
 I am actively looking for new opportunities where I can contribute to building scalable products and helping the engineering team thrive. If you are a recruiter or technical leader, let's chat!
 
 <div align="center">
+  <a href="https://www.barbaraport.com.br">
+    <img src="https://img.shields.io/badge/My%20Website-000000?style=for-the-badge" alt="My Website" />
+  </a>
   <a href="https://linkedin.com/in/barbaraport">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="My LinkedIn profile" />
   </a>
