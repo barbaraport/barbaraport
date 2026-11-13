@@ -19,7 +19,7 @@ I am actively looking for new opportunities where I can contribute to building s
   <a href="https://www.barbaraport.com.br">
     <img src="https://img.shields.io/badge/My%20Website-000000?style=for-the-badge" alt="My Website" />
   </a>
-  <a href="https://instagram.com](https://www.instagram.com/barbaraportdev/">
+  <a href="https://www.instagram.com/barbaraportdev/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://linkedin.com/in/barbaraport">
